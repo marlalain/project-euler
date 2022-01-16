@@ -1,0 +1,6 @@
+clojure/**/*.iml
+clojure/.idea
+clojure/target
+clojure/.hgignore
+clojure/.gitignore
+**/.attach_pid*
